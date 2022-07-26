@@ -1,0 +1,109 @@
+html {
+    height: 100%;
+  }
+body{
+    background-image: url(image/eae3fa97b85b61714b915f647882f80b.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    color: #ffff;
+    font-family: 'Baloo Bhai', cursive;
+}
+.p1{
+    margin-top: -15px;
+margin-left: 10px;
+font-family: 'Baloo Bhai', cursive;
+}
+.center{
+    overflow: hidden;
+    margin-left: 343px;
+    margin-top: -100;
+    font-family: 'Baloo Bhai', cursive;
+}
+.center a{
+    float: left;
+    color: #f2f2f2;
+    margin-left: 70;
+    text-align: center;
+    padding: 18px 20px;
+    text-decoration: none;
+    font-size: 25;
+    font-family: 'Baloo Bhai', cursive;
+}
+.center a.action{
+    color: rgb(122, 122, 122);
+    text-decoration: underline;
+    font-family: 'Baloo Bhai', cursive;
+}
+.right{
+    padding: 18px 20px;
+    margin-top: -66;
+margin-left: 1500px;
+font-size: 25;
+font-family: 'Baloo Bhai', cursive;
+}
+.b1{
+    padding: 5px 15px;
+    border-radius: 10%;
+    color: #f2f2f2;
+    text-decoration: none;
+    border: 1px solid#f2f2f2;
+    font-family: 'Baloo Bhai', cursive;
+}
+.b2{
+    background-color: rgb(8, 8, 8);
+    padding: 5px 15px;
+    margin-left: 10px;
+    border-radius: 10%;
+    color: #f2f2f2;
+    text-decoration: none;
+    border: 1px solid#f2f2f2;
+    font-family: 'Baloo Bhai', cursive;
+}
+.pic1{
+    margin-left: 15px;
+}
+.login{
+    height:450 ;
+    width: 600;
+border: 2px solid;
+border-radius:5%;
+margin-top: 200;
+margin-left: 70;
+font-family: 'Baloo Bhai', cursive;
+}
+.login input{
+margin-left: 40px;
+font-size: 20px;
+background-color: white;
+border-radius: 10px;
+text-align: center;
+display: block;
+width: 508px;
+height: 40;
+padding: 1px;
+border: 2px solid black;
+font-family: 'Baloo Bhai', cursive;
+}
+.bu1{
+    margin-left: 40px;
+    font-size: 20px;
+    color: #f2f2f2;
+    background-color: rgb(66, 66, 66);
+    border-radius: 10px;
+    text-align: center;
+    display: block;
+    width: 508px;
+    height: 40;
+    padding: 1px;
+    border: 2px solid rgb(255, 255, 255); 
+    font-family: 'Baloo Bhai', cursive; 
+}
+.h11{
+    text-align: center;
+    font-family: 'Baloo Bhai', cursive;
+}
