@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color:black;
+    color: white;
+}
+.navbar .navbar-nav{
+margin-left: 500px;
+}
+.navbar .collapse .navbar-nav li{
+    padding-left: 100px;
+   
+}
+.navbar .navbar-brand{
+    margin-left: 40px;
+    color: white;
+    font-family: 'Inspiration', cursive;
+    font-size: 50px;
+}
+.navbar .navbar-nav .nav-item a{
+    color: white;
+}
+.navbar .navbar-nav .nav-item a:hover{
+   color: #e25a47;
+}
+.navbar .navbar-nav .nav-item .action{
+   background-color: #e25a47;
+   padding: 10px 20px;
+   border-color: #e25a47;
+   color: white;
+}
+#action{
+    color: white;
+}
+.carousel-inner .carousel-item img{
+    min-height: calc(100vh - 100px);
+}
+.carousel-inner .carousel-item .aa1{
+   position: absolute;
+   top: 200px;
+   left: -500px;;
+   }
+   .carousel-inner .carousel-item .aa1 h1{
+    margin-left:-400px;
+    font-size: 50px;
+    }
+    .carousel-inner .carousel-item .aa1 h2{
+        margin-left:-260px;
+        font-size: 50px;
+        }
+   .carousel-inner .carousel-item .aa1 .btn{
+    background-color: #e25a47;
+    border-color:#e25a47;
+    width: 200px;
+    
+    }
+    .carousel-inner .carousel-item .aa1 .btn2{
+       background-color: darkgray;
+       border-color:darkgray;
+       opacity: 50%;
+        
+        }
+        .carousel-inner .carousel-item .aa1 .btn:hover{
+            opacity: 90%;
+            }
+            .carousel-inner .carousel-item .aa1 .bb1{
+                margin-left: -300px;
+                 
+                 }
